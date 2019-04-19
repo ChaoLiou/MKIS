@@ -152,34 +152,34 @@ export default {
   vertical-align: middle;
 }
 .flag-us {
-  background: url("/allflags.png") no-repeat -1px -6530px;
+  background: url("/flag/all.png") no-repeat -1px -160px;
 }
 .flag-uk {
-  background: url("/allflags.png") no-repeat -1px -6194px;
+  background: url("/flag/all.png") no-repeat -1px -140px;
 }
 .flag-ca {
-  background: url("/allflags.png") no-repeat -1px -6050px;
+  background: url("/flag/all.png") no-repeat -1px -20px;
 }
 .flag-jp {
-  background: url("/allflags.png") no-repeat -1px -6314px;
+  background: url("/flag/all.png") no-repeat -1px -120px;
 }
 .flag-au {
-  background: url("/allflags.png") no-repeat -1px -6002px;
+  background: url("/flag/all.png") no-repeat -1px -180px;
 }
 .flag-cn {
-  background: url("/allflags.png") no-repeat -1px -6098px;
+  background: url("/flag/all.png") no-repeat -1px 0px;
 }
 .flag-eu {
-  background: url("/allflags.png") no-repeat -1px -6170px;
+  background: url("/flag/all.png") no-repeat -1px -80px;
 }
 .flag-ch {
-  background: url("/allflags.png") no-repeat -1px -6074px;
+  background: url("/flag/all.png") no-repeat -1px -40px;
 }
 .flag-de {
-  background: url("/allflags.png") no-repeat -1px -6817px;
+  background: url("/flag/all.png") no-repeat -1px -60px;
 }
 .flag-fr {
-  background: url("/allflags.png") no-repeat -1px -6694px;
+  background: url("/flag/all.png") no-repeat -1px -100px;
 }
 .select-none {
   -webkit-touch-callout: none;
